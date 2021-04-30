@@ -1,0 +1,19 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "description": "A collection of algos and the iteration process",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WestinSchepper/algos.git"
+  },
+  "author": "Westin Schepper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WestinSchepper/algos/issues"
+  },
+  "homepage": "https://github.com/WestinSchepper/algos#readme"
+}
