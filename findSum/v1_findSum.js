@@ -2,7 +2,7 @@ import data from './data.js'
 
 /**
  * Status: FAIL
- * Complexity: O(n)
+ * Time Complexity: O(n)
  * Notes: This is the naive approach that passes the example found in the README.
  * Step one was to build something that passed those. Let's iterare.
  */

@@ -2,7 +2,7 @@ import data from './data.js'
 
 /**
  * Status: PASS
- * Complexity: O(n2)
+ * Time Complexity: O(n^2)
  * Notes: This technically passes, but if the value is high it becomes
  * a very expensive operation. Another naive approach to build off of.
  */

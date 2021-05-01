@@ -2,7 +2,7 @@ import data from './data.js'
 
 /**
  * Status: PASS
- * Complexity: O(n)
+ * Time Complexity: O(n)
  * Notes: So far this seems to be the most performant version, I think there
  * is still some room for improvement. I'm thinking some check before the while
  * loop begins could prove useful.
